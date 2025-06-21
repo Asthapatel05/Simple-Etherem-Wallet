@@ -27,4 +27,14 @@ The Simple Ethereum Wallet project has significant potential for expansion and e
 
 ## Contract Details
 
-*[This section is reserved for manual input of contract deployment details, addresses, and network-specific information]*
+transaction hash	0x98c566cdb8ee88d9a527fbc17888b957b5fd5977b4825271cd0423903547deb4
+contract address	0xd9145CCE52D386f254917e481eB44e9943F39138
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/748fbee4-85d8-4556-a597-5ee87f62fdc5)
+
